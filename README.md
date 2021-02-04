@@ -1,4 +1,5 @@
 example: CxFlowMasterPush-Test1
+example: CxFlowMasterPush-Test2
 
 The BodgeIt Store is a vulnerable web application which is currently aimed at people who are new to pen testing.
 
